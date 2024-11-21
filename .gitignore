@@ -19,4 +19,4 @@ build
 
 # ²»ÅÅ³ý.gitignoreºÍApp.class:
 !.gitignore
-!App.class
+!test.class
